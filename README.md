@@ -1,2 +1,2 @@
-# rust-book-tr
-Rust öğrenmek için en güncel ve kolay türkçe kaynak olmaya çalışan bir repo.
+# Rust Book Türkçe
+Ben 17 yaşındayım Rust öğrenmeye karar verdim ama türkçe ve kaliteli kaynak bulma konusunda zorlandım en yeni Türkçe kaynak 5 yıl önce olduğu ve dökümanların eksik olduğu için naçizane kendim birşeyler yapmayı deneyeceğim. Feynman tekniği ile bir işi öğreterek öğrenmeyi deneyeceğim benimle beraber öğrenirseniz ve öğretirseniz mutlu olurum <3. Kaliteli bir döküman yapmaya çalışacağım fakat tecrübesizlik ve teknik bilgi eksikliklerinden dolayı sonuçlarından beni mazur görmenizi diliyorum. Desteklerinizi esirgemeyin lütfen düzeltilmesi gerekilen yerleri anlatırsanız çok mutlu olurum.
